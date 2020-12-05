@@ -1,0 +1,7 @@
+C:\Users\FreshyLuLu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\FreshyLuLu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\FreshyLuLu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\自用抽奖器.exe.config
+C:\Users\FreshyLuLu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\自用抽奖器.exe
+C:\Users\FreshyLuLu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\自用抽奖器.pdb
+C:\Users\FreshyLuLu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\自用抽奖器.exe
+C:\Users\FreshyLuLu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\自用抽奖器.pdb
